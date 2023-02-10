@@ -175,7 +175,7 @@ const home = () => {
                                             <img src="https://kavyant.com/images/icon-wcu1.png" alt="icon" />
                                             <div className="item_text">
                                                 <h4>Trusted <span>company</span></h4>
-                                                <p>We keep our clients valuable data into our secure vault. Only use them to provide quality services.</p>
+                                                <p>We keep our client's valuable data into our secure vault. Only use them to provide quality services. Privacy matters!</p>
                                             </div>
                                         </div>
                                     </div>

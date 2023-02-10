@@ -7,7 +7,7 @@ const header = () => {
             <header className="main-head">
             <div className="container">
                 <nav className="navbar navbar-expand-lg navbar-light">
-                <a className="navbar-brand" href="index"><img src="https://kavyant.com/images/logo.png" alt="" /></a>
+                <a className="navbar-brand" href="/"><img src="https://kavyant.com/images/logo.png" alt="" /></a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="stick" />
                 </button>

@@ -19,7 +19,7 @@ const Careers = () => {
         document.getElementById("alert_sending").click();
         $.ajax({
             type: "POST",
-            url: "http://localhost/kavyant/jobapply.php",
+            url: "https://react.kavyant.com/indranil/jobapply.php",
             data: formData,
             contentType: false,
             processData: false,

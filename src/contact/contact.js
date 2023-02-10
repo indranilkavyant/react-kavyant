@@ -9,7 +9,7 @@ const Contact = () => {
 
         $.ajax({
             type: "POST",
-            url: "http://localhost/kavyant/contact.php",
+            url: "https://react.kavyant.com/indranil/contact.php",
             data: { data: contactData },
             dataType: "json",
             success: function (result) {
